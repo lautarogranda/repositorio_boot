@@ -1,0 +1,57 @@
+nav {
+    height: 10vh;
+    background-color: rgba(213, 213, 213, 0.038);
+    
+}
+
+.row {
+    text-align: left;
+    height: 90vh;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.row h3 {
+    margin-top: 160px;
+    color: red;
+}
+
+.row span {
+    font-weight: bold;
+}
+
+img {
+    height: 90vh;
+    width: 100%;
+}
+
+.leermas {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.descripcion {
+    text-align: center;
+    justify-content: center;
+}
+
+.descripcion h3 {
+    color: red;
+}
+
+.descripcion p {
+    margin: 5px 30px;
+    padding: 5px 100px;
+}
+
+.cita {
+    font-size: 2vw;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 3px;
+}
+
+
+
+
